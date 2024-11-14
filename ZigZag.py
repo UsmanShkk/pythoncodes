@@ -12,7 +12,7 @@ def convert(self, s: str, numRows: int) -> str:
                 ans[ind]+=s[k]
                 ind+=1
             else:
-                ans[ind] += s[k]
+                ans[ind] = ans[ind] + s[k]
                 ind-=1
         answer=''
         for u in range(len(ans)):
