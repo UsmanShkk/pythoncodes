@@ -27,13 +27,10 @@ class SeparateChainingHashTable:
 
 hash_table = SeparateChainingHashTable(size=5)
 
-# Insert values into the hash table
 hash_table.insert("apple")
 hash_table.insert("banana")
 hash_table.insert("cherry")
 hash_table.insert("date")  # Demonstrating collision
-
-# Print the hash table to observe chaining
 print("Hash Table:")
 for i, bucket in enumerate(hash_table.table):
     print(f"Bucket {i}: {bucket}")
