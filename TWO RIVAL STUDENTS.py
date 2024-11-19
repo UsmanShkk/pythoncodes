@@ -2,6 +2,7 @@ t=int(input())
 for z in range(t):
     n,x,a,b=map(int,input().split())
     if a<b:
+        #print(a)
         diff1=abs(1-a)
         diff2=abs(n-b)
     else:
