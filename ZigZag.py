@@ -3,6 +3,7 @@ def convert(self, s: str, numRows: int) -> str:
             return s
         ans=['']*numRows
         ind = 0
+        #print(ans}
         for k in range(len(s)):
             if ind==0:
                 flag=True
