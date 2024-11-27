@@ -1,7 +1,7 @@
 
 # Problem Solving Repository
 
-This repository contains solutions to various programming problems and coding challenges, with a primary focus on problem-solving techniques using Python. It is designed to help you practice and improve your skills in algorithmic thinking, data structures, and efficient code implementation.
+This repository contains solutions to various programming problems and coding challenges, with a primary focus on problem-solving techniques using Python. It is designed to help you practice and improve your skills in algorithmic thinking, data structures.
 
 ## Repository Structure
 
